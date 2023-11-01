@@ -1,6 +1,5 @@
-# Preview repo template for [`EndBug/pages-preview`](https://github.com/EndBug/pages-preview)
+# Pull Request Site Preview repo for [`saraswati.learn.study`](https://github.com/www-learn-study/saraswati.learn.study)
 
-To create your own preview repo, click the "Use this template" button at the top of the page.  
-**IMPORTANT**: make sure to tick the "Include all branches" checkbox.
+This repo started out as a copy of https://github.com/EndBug/preview-template.
 
-For info on how to finish the setup, check out [the action's README](https://github.com/EndBug/pages-preview#setup).
+See https://github.com/EndBug/pages-preview.
